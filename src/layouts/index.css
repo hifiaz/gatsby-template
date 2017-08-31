@@ -1,0 +1,24 @@
+/* vanolia */
+.is-small.is-border-radius{
+  border-radius: 10em
+}
+.bg-valonia{
+  background-image: url("https://source.unsplash.com/1khe6HcE_pU/1300x900");
+  background-repeat: no-repeat;
+}
+/* end valonia */
+/* education */
+.is-border-radius{
+  border-radius: 10em
+}
+.bg-education{
+  background-image: url("https://source.unsplash.com/nfTA8pdaq9A/1300x800");
+  background-repeat: no-repeat;
+}
+/* end education */
+/* knowhat */
+.bg-knowhat{
+  background-image: url("https://source.unsplash.com/VdFkSO3uePI/1300x800");
+  background-repeat: no-repeat;
+}
+/* end knowhat */
