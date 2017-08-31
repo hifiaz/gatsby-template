@@ -1,5 +1,5 @@
-# gatsby-starter-default
-The default Gatsby starter
+# gatsby-theme
+This is template i made with gatsby and bulma.io
 
 For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/)
 
